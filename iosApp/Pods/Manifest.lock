@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (4.0.1)
+  - SwiftLint (0.27.0)
+
+DEPENDENCIES:
+  - SnapKit
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+
+PODFILE CHECKSUM: e7ad30e583fcd9cee241ec038d4ce46cff82c771
+
+COCOAPODS: 1.5.3
