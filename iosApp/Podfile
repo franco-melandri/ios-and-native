@@ -1,4 +1,4 @@
-target 'github-multiplatform-example' do
+target 'ios-and-native' do
   use_frameworks!
   pod 'SnapKit'
   pod 'SwiftLint'
